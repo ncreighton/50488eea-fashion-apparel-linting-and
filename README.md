@@ -1,2 +1,71 @@
-# 50488eea-fashion-apparel-linting-and
-The fashion apparel tool you'd build yourself — if you had the time.  Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces. Status bar integration gives you real-time feedback without opening panels.  ## What's Included  - Fashion &amp; Apparel Linting And Best Practices Enforcer — fully configured and ready to use - Integrated direct
+# Fashion & Apparel Linting and Best Practices Enforcer VS Code Extension
+
+> Custom rules, auto-fix, inline warnings, and team config sharing for Fashion & Apparel code. Catches Fashion & Apparel-specific bugs generic linters miss.
+
+## Features
+
+- Core functionality
+
+## Installation
+
+### From VS Code Marketplace
+1. Open VS Code
+2. Press `Ctrl+P` (or `Cmd+P` on Mac)
+3. Type `ext install digitalforge.50488eea`
+4. Press Enter
+
+### From VSIX file
+1. Download the `.vsix` file
+2. In VS Code: `Extensions > ··· > Install from VSIX`
+3. Select the downloaded file
+
+## Usage
+
+Press `Ctrl+Shift+P` and search for `Fashion & Apparel Linting and Best Practices Enforcer VS Code Extension` to see all available commands.
+
+**Keyboard shortcut:** `Ctrl+Shift+Alt+A` (or `Cmd+Shift+Alt+A` on Mac)
+
+## Settings
+
+| Setting | Default | Description |
+|---------|---------|-------------|
+| `50488eea.enabled` | `true` | Enable/disable the extension |
+| `50488eea.autoRun` | `false` | Auto-run on file open |
+| `50488eea.logLevel` | `"info"` | Log verbosity |
+
+## Requirements
+
+- VS Code 1.74.0 or higher
+
+## Contributing
+
+Found a bug? [Open an issue](https://github.com/digitalforge/50488eea/issues).
+
+## License
+
+MIT — see [LICENSE](LICENSE) for details.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core language support | Yes | Yes |
+| Basic snippets | Yes | Yes |
+| Standard themes | Yes | Yes |
+| AI-powered completions | - | Yes |
+| Advanced refactoring | - | Yes |
+| Team sync | - | Yes |
+| Custom keybindings | - | Yes |
+| Priority bug fixes | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cIbJ15iT2k4cVW8nGcZM30)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cIbJ15iT2k4cVW8nGcZM30)
+
